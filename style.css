@@ -55,6 +55,10 @@ body {
     width: 25%;
 }
 
+.bottom-line {
+    margin-top: 25px;
+}
+
 .item p {
     display: inline-block;
 }
